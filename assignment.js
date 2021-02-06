@@ -19,7 +19,6 @@ function budgetCalculator(watch, phone, laptop) {
     } else {
         return `You have to pass three (watch, phone & laptop) amount. Amount can be 0 but can't be empty or negative.`;
     }
-
 }
 
 function hotelCost(days) {
